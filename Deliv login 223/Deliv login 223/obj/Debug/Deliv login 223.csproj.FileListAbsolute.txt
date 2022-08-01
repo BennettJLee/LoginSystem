@@ -1,0 +1,83 @@
+D:\University\Level 2\COMPX223\Deliverable2\Deliv login 223\Deliv login 223\obj\Debug\Deliv login 223.csprojAssemblyReference.cache
+D:\University\Level 2\COMPX223\Deliverable2\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.LoginScreen.resources
+D:\University\Level 2\COMPX223\Deliverable2\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.Properties.Resources.resources
+D:\University\Level 2\COMPX223\Deliverable2\Deliv login 223\Deliv login 223\obj\Debug\Deliv login 223.csproj.GenerateResource.cache
+D:\University\Level 2\COMPX223\Deliverable2\Deliv login 223\Deliv login 223\bin\Debug\Deliv login 223.exe.config
+D:\University\Level 2\COMPX223\Deliverable2\Deliv login 223\Deliv login 223\bin\Debug\Deliv login 223.exe
+D:\University\Level 2\COMPX223\Deliverable2\Deliv login 223\Deliv login 223\bin\Debug\Deliv login 223.pdb
+D:\University\Level 2\COMPX223\Deliverable2\Deliv login 223\Deliv login 223\obj\Debug\Deliv login 223.exe
+D:\University\Level 2\COMPX223\Deliverable2\Deliv login 223\Deliv login 223\obj\Debug\Deliv login 223.pdb
+D:\University\Level 2\COMPX223\Deliverable2\Deliv login 223\Deliv login 223\obj\Debug\Deliv login 223.csproj.CoreCompileInputs.cache
+D:\University\Level 2\COMPX223\Deliverable2\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.Manager.resources
+D:\University\Level 2\COMPX223\Deliverable2\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.Programmer.resources
+D:\University\Level 2\COMPX223\Deliverable2\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.Create_Task.resources
+D:\University\Level 2\COMPX223\Deliverable2\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.AssignProgrammer.resources
+D:\University\Level 2\COMPX223\Deliverable2\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.View_Task.resources
+D:\University\Level 2\COMPX223\Deliverable2\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.RecordTask.resources
+D:\University\Level 2\COMPX223\Deliverable2\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.ViewIssues.resources
+D:\University\Level 2\COMPX223\Deliverable2\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.CreateIssue.resources
+D:\University\Level 2\COMPX223\Deliverable2\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.CreateReport.resources
+D:\University\Level 2\COMPX223\Deliverable2\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.Statistics.resources
+G:\Deliverable 3\Deliv login 223\Deliv login 223\bin\Debug\Deliv login 223.exe.config
+G:\Deliverable 3\Deliv login 223\Deliv login 223\bin\Debug\Deliv login 223.exe
+G:\Deliverable 3\Deliv login 223\Deliv login 223\bin\Debug\Deliv login 223.pdb
+G:\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv login 223.csproj.AssemblyReference.cache
+G:\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv login 223.csproj.SuggestedBindingRedirects.cache
+G:\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.AssignProgrammer.resources
+G:\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.Create_Task.resources
+G:\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.CreateIssue.resources
+G:\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.CreateReport.resources
+G:\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.LoginScreen.resources
+G:\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.Manager.resources
+G:\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.Programmer.resources
+G:\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.Properties.Resources.resources
+G:\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.RecordTask.resources
+G:\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.Statistics.resources
+G:\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.View_Task.resources
+G:\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.ViewIssues.resources
+G:\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv login 223.csproj.GenerateResource.cache
+G:\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv login 223.csproj.CoreCompileInputs.cache
+G:\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv login 223.exe
+G:\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv login 223.pdb
+F:\University\200\Level 2\COMPX223\Deliverable 3\Deliv login 223\Deliv login 223\bin\Debug\Deliv login 223.exe.config
+F:\University\200\Level 2\COMPX223\Deliverable 3\Deliv login 223\Deliv login 223\bin\Debug\Deliv login 223.exe
+F:\University\200\Level 2\COMPX223\Deliverable 3\Deliv login 223\Deliv login 223\bin\Debug\Deliv login 223.pdb
+F:\University\200\Level 2\COMPX223\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv login 223.csproj.AssemblyReference.cache
+F:\University\200\Level 2\COMPX223\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv login 223.csproj.SuggestedBindingRedirects.cache
+F:\University\200\Level 2\COMPX223\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.AssignProgrammer.resources
+F:\University\200\Level 2\COMPX223\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.Create_Task.resources
+F:\University\200\Level 2\COMPX223\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.CreateIssue.resources
+F:\University\200\Level 2\COMPX223\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.CreateReport.resources
+F:\University\200\Level 2\COMPX223\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.LoginScreen.resources
+F:\University\200\Level 2\COMPX223\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.Manager.resources
+F:\University\200\Level 2\COMPX223\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.Programmer.resources
+F:\University\200\Level 2\COMPX223\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.Properties.Resources.resources
+F:\University\200\Level 2\COMPX223\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.RecordTask.resources
+F:\University\200\Level 2\COMPX223\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.Statistics.resources
+F:\University\200\Level 2\COMPX223\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.View_Task.resources
+F:\University\200\Level 2\COMPX223\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.ViewIssues.resources
+F:\University\200\Level 2\COMPX223\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv login 223.csproj.GenerateResource.cache
+F:\University\200\Level 2\COMPX223\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv login 223.csproj.CoreCompileInputs.cache
+F:\University\200\Level 2\COMPX223\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv login 223.exe
+F:\University\200\Level 2\COMPX223\Deliverable 3\Deliv login 223\Deliv login 223\obj\Debug\Deliv login 223.pdb
+F:\University\200\COMPX223\Deliverable3\Deliv login 223\Deliv login 223\bin\Debug\Deliv login 223.exe.config
+F:\University\200\COMPX223\Deliverable3\Deliv login 223\Deliv login 223\bin\Debug\Deliv login 223.exe
+F:\University\200\COMPX223\Deliverable3\Deliv login 223\Deliv login 223\bin\Debug\Deliv login 223.pdb
+F:\University\200\COMPX223\Deliverable3\Deliv login 223\Deliv login 223\obj\Debug\Deliv login 223.csproj.AssemblyReference.cache
+F:\University\200\COMPX223\Deliverable3\Deliv login 223\Deliv login 223\obj\Debug\Deliv login 223.csproj.SuggestedBindingRedirects.cache
+F:\University\200\COMPX223\Deliverable3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.AssignProgrammer.resources
+F:\University\200\COMPX223\Deliverable3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.Create_Task.resources
+F:\University\200\COMPX223\Deliverable3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.CreateIssue.resources
+F:\University\200\COMPX223\Deliverable3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.CreateReport.resources
+F:\University\200\COMPX223\Deliverable3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.LoginScreen.resources
+F:\University\200\COMPX223\Deliverable3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.Manager.resources
+F:\University\200\COMPX223\Deliverable3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.Programmer.resources
+F:\University\200\COMPX223\Deliverable3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.Properties.Resources.resources
+F:\University\200\COMPX223\Deliverable3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.RecordTask.resources
+F:\University\200\COMPX223\Deliverable3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.Statistics.resources
+F:\University\200\COMPX223\Deliverable3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.View_Task.resources
+F:\University\200\COMPX223\Deliverable3\Deliv login 223\Deliv login 223\obj\Debug\Deliv_login_223.ViewIssues.resources
+F:\University\200\COMPX223\Deliverable3\Deliv login 223\Deliv login 223\obj\Debug\Deliv login 223.csproj.GenerateResource.cache
+F:\University\200\COMPX223\Deliverable3\Deliv login 223\Deliv login 223\obj\Debug\Deliv login 223.csproj.CoreCompileInputs.cache
+F:\University\200\COMPX223\Deliverable3\Deliv login 223\Deliv login 223\obj\Debug\Deliv login 223.exe
+F:\University\200\COMPX223\Deliverable3\Deliv login 223\Deliv login 223\obj\Debug\Deliv login 223.pdb
